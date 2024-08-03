@@ -64,6 +64,3 @@ This project is licensed under the MIT License.
 - The Movie Database (TMDb) API for movie data and posters.
 - Streamlit for providing an easy-to-use web app framework.
 
----
-
-You can customize the above content to fit your needs and add any additional sections or details that might be necessary. If you have any specific details about the implementation or want to add more visual elements, feel free to do so.
